@@ -1,0 +1,21 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Books>
+  <Book ISBN="1590596188">
+    <Title>Foundation ActionScript for Flash 8</Title>
+    <Authors>
+      <Author>
+        <FirstName>Kristian</FirstName>
+        <FamilyName>Besley</FamilyName>
+      </Author>
+      <Author>
+        <FirstName>Sham</FirstName>
+        <FamilyName>Bhangal</FamilyName>
+      </Author>
+      <Author>
+        <FirstName>David</FirstName>
+        <FamilyName>Powers</FamilyName>
+      </Author>
+    </Authors>
+    <Publisher>friends of ED</Publisher>
+  </Book>
+</Books>

@@ -1,0 +1,32 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<home>
+  <futuremedia>
+	<burnmedia>
+	  <contentPage id="futureTV" url=""/>
+	</burnmedia>
+	<contact>
+	  <contentPage id="map" url=""/>
+	</contact>
+	<links>
+	  <contentPage id="links" url=""/>
+	</links>
+  </futuremedia>
+  <future_work>
+	<print>
+	  <webdesign_books>
+		<contentPage id="books" url=""/>
+	  </webdesign_books>
+	  <other>
+		<contentPage id="draconis" url=""/>
+	  </other>
+	</print>
+	<web>
+	  <contentPage id="placeholder" url=""/>
+	</web>
+  </future_work>
+  <media_people>
+	<sham_b>
+	  <contentPage id="shamb" url=""/>
+	</sham_b>
+  </media_people>
+</home>
